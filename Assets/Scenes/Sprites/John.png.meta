@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 978a43f77692f3a4e8a3c825af6577e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5474514372253443550
+    second: John_0
+  - first:
+      213: 3156864525926257388
+    second: John_1
+  - first:
+      213: 1919795066234709707
+    second: John_2
+  - first:
+      213: 775959264254310738
+    second: John_3
+  - first:
+      213: -5227553573472371831
+    second: John_4
+  - first:
+      213: -3222861290967463445
+    second: John_5
+  - first:
+      213: -3134241301687043793
+    second: John_6
+  - first:
+      213: -5201407342918040164
+    second: John_7
+  - first:
+      213: 5358411643526529963
+    second: John_8
+  - first:
+      213: -5187893988872869060
+    second: John_9
+  - first:
+      213: 7334668167563392648
+    second: John_10
+  - first:
+      213: -939170705075150992
+    second: John_11
+  - first:
+      213: -8048314756879894327
+    second: John_12
+  - first:
+      213: 2417258192433992752
+    second: John_13
+  - first:
+      213: 5369531095670153947
+    second: John_14
+  - first:
+      213: 8861638323000396833
+    second: John_15
+  - first:
+      213: 7189338125594634572
+    second: John_16
+  - first:
+      213: 8185146390164397132
+    second: John_17
+  - first:
+      213: 7614669470362406732
+    second: John_18
+  - first:
+      213: 1986387473975399787
+    second: John_19
+  - first:
+      213: 2427416073089083655
+    second: John_0
+  - first:
+      213: 3078617962555937096
+    second: John_1
+  - first:
+      213: -5003964895139658924
+    second: John_2
+  - first:
+      213: -2106000035473253285
+    second: John_3
+  - first:
+      213: -2482514773482501160
+    second: John_4
+  - first:
+      213: -8849031312285242058
+    second: John_5
+  - first:
+      213: 8787485861832358507
+    second: John_6
+  - first:
+      213: -7805770235626329751
+    second: John_7
+  - first:
+      213: 1196313260529471545
+    second: John_8
+  - first:
+      213: -1502189134779241250
+    second: John_9
+  - first:
+      213: -6943089742872300089
+    second: John_10
+  - first:
+      213: -7930966006489097494
+    second: John_11
+  - first:
+      213: -6598495054900891957
+    second: John_12
+  - first:
+      213: 7792203499533645026
+    second: John_13
+  - first:
+      213: 6001460297760465285
+    second: John_14
+  - first:
+      213: -7096176399055613219
+    second: John_15
+  - first:
+      213: 1774415182975768215
+    second: John_16
+  - first:
+      213: -3216873010600307573
+    second: John_17
+  - first:
+      213: -7532265141689564636
+    second: John_18
+  - first:
+      213: 2489474149003077578
+    second: John_19
+  - first:
+      213: -7488213471740219335
+    second: John_20
+  - first:
+      213: 6169894785422463120
+    second: John_21
+  - first:
+      213: 4900183845852687834
+    second: John_22
+  - first:
+      213: -3436419688589976739
+    second: John_23
+  - first:
+      213: 9170351433780634424
+    second: John_24
+  - first:
+      213: -34716473356857566
+    second: John_25
+  - first:
+      213: -6333548543407930997
+    second: John_26
+  - first:
+      213: 5166778909330634852
+    second: John_27
+  - first:
+      213: 2899919392867091824
+    second: John_28
+  - first:
+      213: -7974773284580313208
+    second: John_29
+  - first:
+      213: 4309509001363617922
+    second: John_30
+  - first:
+      213: 6512710676439808197
+    second: John_31
+  - first:
+      213: -2245003216387709609
+    second: John_32
+  - first:
+      213: 7154002660730271535
+    second: John_33
+  - first:
+      213: -6297676007209563092
+    second: John_34
+  - first:
+      213: 7735417672469994124
+    second: John_35
+  - first:
+      213: 4102314625415048133
+    second: John_36
+  - first:
+      213: 465552781849537968
+    second: John_37
+  - first:
+      213: -3152758386914469941
+    second: John_38
+  - first:
+      213: -5149942308104929852
+    second: John_39
+  - first:
+      213: 2023531757930951220
+    second: John_40
+  - first:
+      213: -937024215971195103
+    second: John_41
+  - first:
+      213: 1795960679559917143
+    second: John_42
+  - first:
+      213: -6158297138283753422
+    second: John_43
+  - first:
+      213: 6383044878387010235
+    second: John_44
+  - first:
+      213: 473859265188420792
+    second: John_45
+  - first:
+      213: 7260614409675022860
+    second: John_46
+  - first:
+      213: -700747947923758562
+    second: John_47
+  - first:
+      213: 7185182344788225
+    second: John_48
+  - first:
+      213: -2723451955518484898
+    second: John_49
+  - first:
+      213: 7910959027447405135
+    second: John_50
+  - first:
+      213: -711274845058370272
+    second: John_51
+  - first:
+      213: -5890731549544084185
+    second: John_52
+  - first:
+      213: -6878981387081497803
+    second: John_53
+  - first:
+      213: -2459300861035975711
+    second: John_54
+  - first:
+      213: -8966097318720511925
+    second: John_55
+  - first:
+      213: 3311483997419368024
+    second: John_56
+  - first:
+      213: 277700047663660663
+    second: John_57
+  - first:
+      213: 6933415829629284735
+    second: John_58
+  - first:
+      213: 4272323113092307677
+    second: John_59
+  - first:
+      213: -5480067502449319073
+    second: John_60
+  - first:
+      213: 3826852536336188839
+    second: John_61
+  - first:
+      213: -7038868604122505965
+    second: John_62
+  - first:
+      213: -7362795618979206804
+    second: John_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: John_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096c86be0aefa120800000000000000
+      internalID: 2427416073089083655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419849c9b279ba20800000000000000
+      internalID: 3078617962555937096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4530da4a0785e8ab0800000000000000
+      internalID: -5003964895139658924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c18a4302cf5c2e0800000000000000
+      internalID: -2106000035473253285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8ae867f55c8dd0800000000000000
+      internalID: -2482514773482501160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dede8d7ece13580800000000000000
+      internalID: -8849031312285242058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af84f45db63f970800000000000000
+      internalID: 8787485861832358507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ec23d3555ca390800000000000000
+      internalID: -7805770235626329751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d2f572982a9010800000000000000
+      internalID: 1196313260529471545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc280cd0f6272be0800000000000000
+      internalID: -1502189134779241250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c530783aa035af90800000000000000
+      internalID: -6943089742872300089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead489ef6c8fe190800000000000000
+      internalID: -7930966006489097494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee57835bf6d64a0800000000000000
+      internalID: -6598495054900891957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e432474cc7732c60800000000000000
+      internalID: 7792203499533645026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816f9df758794350800000000000000
+      internalID: 6001460297760465285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd297c68921558d90800000000000000
+      internalID: -7096176399055613219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969459253dff9810800000000000000
+      internalID: 1774415182975768215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8490a36a0f5b53d0800000000000000
+      internalID: -3216873010600307573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224983e2c4087790800000000000000
+      internalID: -7532265141689564636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a8d87c836c8220800000000000000
+      internalID: 2489474149003077578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
